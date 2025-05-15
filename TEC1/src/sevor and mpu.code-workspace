@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../sevor and mpu"
+		},
+		{
+			"name": "load cell -ari pump",
+			"path": "../../load cell -ari pump"
+		},
+		{
+			"name": "TEC1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
